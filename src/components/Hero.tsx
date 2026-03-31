@@ -24,7 +24,7 @@ export function Hero() {
             </p>
             <div className="mt-10 flex flex-col sm:flex-row gap-4">
               <a
-                href="https://apps.apple.com"
+                href="https://apps.apple.com/us/app/sauce-recipes-meal-planner/id6760685363"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center justify-center px-8 py-4 bg-pink-accent text-white font-medium rounded-full hover:bg-pink-hover transition-all duration-300 hover:shadow-xl hover:shadow-pink-accent/25 hover:-translate-y-0.5 text-base"

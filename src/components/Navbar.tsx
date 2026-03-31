@@ -13,7 +13,7 @@ export function Navbar() {
       <div className="mx-auto max-w-6xl px-6 py-4 flex items-center justify-between">
         <Link href="/" className="flex items-center gap-2">
           <Image
-            src="/images/Sauceappnewlogo.png"
+            src="/images/sauce-logo.png"
             alt="Sauce logo"
             width={36}
             height={36}
@@ -45,7 +45,7 @@ export function Navbar() {
             Terms
           </Link>
           <a
-            href="https://apps.apple.com"
+            href="https://apps.apple.com/us/app/sauce-recipes-meal-planner/id6760685363"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center px-5 py-2.5 bg-pink-accent text-white text-sm font-medium rounded-full hover:bg-pink-hover transition-all duration-300 hover:shadow-lg hover:shadow-pink-accent/25"
@@ -110,7 +110,7 @@ export function Navbar() {
                 Terms
               </Link>
               <a
-                href="https://apps.apple.com"
+                href="https://apps.apple.com/us/app/sauce-recipes-meal-planner/id6760685363"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center justify-center px-5 py-3 bg-pink-accent text-white text-sm font-medium rounded-full hover:bg-pink-hover transition-all duration-300"
